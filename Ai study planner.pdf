@@ -1,0 +1,771 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 2125
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+235.8999999999999488 785.1970866141732586 Td
+(Project Report) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 742.6774015748030706 Td
+(Title of Project:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 711.4962992125983874 Td
+(Ai study planner) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 667.559291338582625 Td
+(Name of the Innovator:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 636.3781889763779418 Td
+(vaishnavi) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 592.4411811023621794 Td
+(Start Date:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 561.2600787401574962 Td
+(5-2-26) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 517.3230708661417339 Td
+(End Date:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 486.1419685039369369 Td
+(11-2-26) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 442.2049606299212314 Td
+(Day 1: Empathise & Define) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 408.1892125984251152 Td
+(Step 1: Understanding the Need) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 362.8348818897637216 Td
+(Which problem am I trying to solve?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 331.6537795275589815 Td
+(student difficulty to understand any concept and easily learn any topic and maintain life and study) Tj
+T* (perfectly) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 272.1262204724408775 Td
+(Who is affected by this problem?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 240.9451181102361943 Td
+(students) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 197.0081102362204319 Td
+(How did I find out about this?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 165.827007874015635 Td
+(Online Research) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 121.8899999999998727 Td
+(Step 2: Problem Statement) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 2736
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Many students struggle with managing their study time effectively due to multiple subjects, tight) Tj
+T* (deadlines, and lack of proper planning. Poor time management often leads to stress, missed) Tj
+T* (deadlines, and reduced academic performance. There is a need for an intelligent system that can) Tj
+T* (help students organize their study schedule efficiently and prioritize tasks based on urgency and) Tj
+T* (importance.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 678.8978740157480161 Td
+(Why is this problem important to solve?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 647.7167716535432191 Td
+(Students struggle with time management and deadline tracking, which affects their academic) Tj
+T* (performance) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 588.1892125984251152 Td
+(Take-home task insights:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 557.0081102362204319 Td
+(This project demonstrates that intelligent scheduling systems can reduce academic stress and help) Tj
+T* (students achieve their goals more efficiently.) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 497.480551181102328 Td
+(Day 2: Ideate) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 463.4648031496062686 Td
+(Step 3: List at least 5 different solutions:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 432.2837007874015285 Td
+(1. Personalized Study Schedule Generator) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 402.5199212598424765 Td
+(2. Smart Task Prioritization) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 372.7561417322834245 Td
+(3. Progress Tracking & Performance Analysis) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 342.9923622047243725 Td
+(4. Reminder & Notification System) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 313.2285826771652637 Td
+(5. Focus & Productivity Monitoring) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 269.2915748031495013 Td
+(Step 4: My favourite solution:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 238.1104724409448181 Td
+(Personalized Study Schedule Generator--) Tj
+T* (The system generates a customized study timetable based on:) Tj
+T* (Subjects) Tj
+T* (Deadlines) Tj
+T* (Available study hours) Tj
+T* (Difficulty level) Tj
+T* (AI automatically adjusts the plan when deadlines change.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 100.6301574803148924 Td
+(Step 5: Why am I choosing this solution?) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 2884
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(These solutions were selected because they directly address the main problem of poor time) Tj
+T* (management, lack of organization, and academic stress among students. Each feature contributes) Tj
+T* (to improving productivity, reducing stress, and enhancing academic performance.) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 710.0789763779526993 Td
+(Day 3: Prototype & Test) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 676.0632283464566399 Td
+(Step 6: What will my solution look like?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 644.8821259842519567 Td
+(The prototype of the AI Study Planner is a web application where students enter their subjects and) Tj
+T* (deadlines. The system generates a personalized study timetable and tracks progress. It includes) Tj
+T* (task prioritization, reminders, and performance monitoring features.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 569.7640157480313974 Td
+(What AI tools will I need?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 538.5829133858267141 Td
+(Replit AI) Tj
+T* () Tj
+T* (OpenAI GPT-4 API) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 463.4648031496062686 Td
+(Selected AI tools:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 432.2837007874015285 Td
+(1. Replit AI – For code generation and development support) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 402.5199212598424765 Td
+(2. Python \(Flask Framework\) – For backend development) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 372.7561417322834245 Td
+(3. HTML, CSS, JavaScript – For frontend user interface) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 342.9923622047243725 Td
+(4. OpenAI GPT API – For generating personalized study plans) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 313.2285826771652637 Td
+(5. Replit DB \(or SQLite\) – For storing user data and schedules) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 269.2915748031495013 Td
+(Step 7: Test - Getting Feedback) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 223.9372440944881646 Td
+(Who did I share my solution with?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 192.7561417322833677 Td
+(tester/student) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 148.8191338582676053 Td
+(What works well:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 117.6380314960629221 Td
+(The system successfully generated study plans, prioritized tasks correctly, stored user data) Tj
+T* (properly, and displayed progress clearly. The AI responses were accurate and helpful.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 3115
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(What needs improvement:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 754.0159842519684616 Td
+(Some AI suggestions need manual adjustment. The notifications and reminders could be faster and) Tj
+T* (more interactive. The UI can be improved, and advanced AI features can be added in the future.) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 694.4884251968503577 Td
+(Day 4: Showcase) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 660.4726771653542983 Td
+(Step 8: Final Project Title:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 629.291574803149615 Td
+(AI Study Planner) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 585.3545669291338527 Td
+(1-Minute Pitch Summary:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 554.1734645669291695 Td
+(The AI Study Planner is an intelligent web application that helps students manage their study time) Tj
+T* (effectively. It generates personalized study schedules based on subjects, deadlines, and available) Tj
+T* (hours, prioritizes tasks, tracks progress, and sends reminders for pending assignments and exams.) Tj
+T* (By using AI, it reduces stress, improves productivity, and helps students achieve better academic) Tj
+T* (performance. This system is simple, user-friendly, and designed to make study planning smarter) Tj
+T* (and more efficient.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 432.2837007874015285 Td
+(Step 9: Reflections) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 386.929370078740078 Td
+(What did I enjoy the most?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 355.7482677165353948 Td
+(I enjoyed designing the AI-powered study schedule feature the most. It was exciting to see how AI) Tj
+T* (could generate personalized plans based on user input. I also enjoyed building the user interface) Tj
+T* (and making it simple and interactive for students. Testing the system and seeing it actually help) Tj
+T* (organize tasks gave me a sense of achievement.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 265.0396062992125508 Td
+(What was my biggest challenge?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 233.8585039370077538 Td
+(The biggest challenges were integrating the AI model with the backend and ensuring it generated) Tj
+T* (accurate, realistic study plans. Another challenge was designing the reminder and progress) Tj
+T* (tracking system so it worked smoothly. Optimizing the AI responses to handle different subjects,) Tj
+T* (deadlines, and study hours efficiently was also difficult but taught me a lot about problem-solving) Tj
+T* (and AI implementation.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 127.559291338582625 Td
+(Project Link:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 96.3781889763778281 Td
+(https://study-planner-ai--VaishnaviPariya.replit.app) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R ]
+/Count 4
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 11 0 R
+/F2 12 0 R
+/F3 13 0 R
+/F4 14 0 R
+/F5 15 0 R
+/F6 16 0 R
+/F7 17 0 R
+/F8 18 0 R
+/F9 19 0 R
+/F10 20 0 R
+/F11 21 0 R
+/F12 22 0 R
+/F13 23 0 R
+/F14 24 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+25 0 obj
+<<
+/Producer (jsPDF 4.0.0)
+/CreationDate (D:20260212155840+05'30')
+>>
+endobj
+26 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 27
+0000000000 65535 f 
+0000011633 00000 n 
+0000013473 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000002329 00000 n 
+0000002466 00000 n 
+0000005254 00000 n 
+0000005391 00000 n 
+0000008327 00000 n 
+0000008465 00000 n 
+0000011708 00000 n 
+0000011834 00000 n 
+0000011965 00000 n 
+0000012099 00000 n 
+0000012237 00000 n 
+0000012361 00000 n 
+0000012490 00000 n 
+0000012622 00000 n 
+0000012758 00000 n 
+0000012886 00000 n 
+0000013013 00000 n 
+0000013142 00000 n 
+0000013275 00000 n 
+0000013377 00000 n 
+0000013726 00000 n 
+0000013812 00000 n 
+trailer
+<<
+/Size 27
+/Root 26 0 R
+/Info 25 0 R
+/ID [ <9E7D9491742D49B49C3A03D62BD24E8C> <9E7D9491742D49B49C3A03D62BD24E8C> ]
+>>
+startxref
+13916
+%%EOF
